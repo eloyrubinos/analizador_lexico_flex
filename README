@@ -1,0 +1,3 @@
+- Descomprimir todo en la misma carpeta.
+- Ejecutar el comando "make" en dicha carpeta.
+- Ejecutar el analizador con "./anaLex nombreArchivo", conteniendo "nombreArchivo" el código a analizar.

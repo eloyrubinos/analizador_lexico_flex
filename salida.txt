@@ -1,0 +1,541 @@
+
+---------------------Tabla de simbolos---------------------
+Lexema: _           Componente lexico: 281        Bloque: 0
+Lexema: chan        Componente lexico: 274        Bloque: 0
+Lexema: float32     Componente lexico: 279        Bloque: 0
+Lexema: for         Componente lexico: 276        Bloque: 0
+Lexema: func        Componente lexico: 273        Bloque: 0
+Lexema: go          Componente lexico: 278        Bloque: 0
+Lexema: import      Componente lexico: 272        Bloque: 0
+Lexema: package     Componente lexico: 271        Bloque: 0
+Lexema: range       Componente lexico: 277        Bloque: 0
+Lexema: real        Componente lexico: 280        Bloque: 0
+Lexema: var         Componente lexico: 275        Bloque: 0
+
+
+
+Lexema: package
+Tipo: 287
+
+Lexema: main
+Tipo: 287
+
+Lexema: \n
+Tipo: 10
+
+Lexema: \n
+Tipo: 10
+
+Lexema: import
+Tipo: 287
+
+Lexema: "fmt"
+Tipo: 284
+
+Lexema: \n
+Tipo: 10
+
+Lexema: \n
+Tipo: 10
+
+Lexema: func
+Tipo: 287
+
+Lexema: sum
+Tipo: 287
+
+Lexema: (
+Tipo: 40
+
+Lexema: s
+Tipo: 287
+
+Lexema: [
+Tipo: 91
+
+Lexema: ]
+Tipo: 93
+
+Lexema: float32
+Tipo: 287
+
+Lexema: ,
+Tipo: 44
+
+Lexema: c
+Tipo: 287
+
+Lexema: chan
+Tipo: 287
+
+Lexema: float32
+Tipo: 287
+
+Lexema: )
+Tipo: 41
+
+Lexema: {
+Tipo: 123
+
+Lexema: \n
+Tipo: 10
+
+Lexema: var
+Tipo: 287
+
+Lexema: sum
+Tipo: 287
+
+Lexema: float32
+Tipo: 287
+
+Lexema: =
+Tipo: 61
+
+Lexema: 0
+Tipo: 285
+
+Lexema: \n
+Tipo: 10
+
+Lexema: for
+Tipo: 287
+
+Lexema: _
+Tipo: 287
+
+Lexema: ,
+Tipo: 44
+
+Lexema: v
+Tipo: 287
+
+Lexema: :=
+Tipo: 281
+
+Lexema: range
+Tipo: 287
+
+Lexema: s
+Tipo: 287
+
+Lexema: {
+Tipo: 123
+
+Lexema: \n
+Tipo: 10
+
+Lexema: sum
+Tipo: 287
+
+Lexema: +=
+Tipo: 283
+
+Lexema: v
+Tipo: 287
+
+Lexema: \n
+Tipo: 10
+
+Lexema: }
+Tipo: 125
+
+Lexema: \n
+Tipo: 10
+
+Lexema: c
+Tipo: 287
+
+Lexema: <-
+Tipo: 282
+
+Lexema: sum
+Tipo: 287
+
+Lexema: \n
+Tipo: 10
+
+Lexema: }
+Tipo: 125
+
+Lexema: \n
+Tipo: 10
+
+Lexema: \n
+Tipo: 10
+
+Lexema: func
+Tipo: 287
+
+Lexema: main
+Tipo: 287
+
+Lexema: (
+Tipo: 40
+
+Lexema: )
+Tipo: 41
+
+Lexema: {
+Tipo: 123
+
+Lexema: \n
+Tipo: 10
+
+Lexema: \n
+Tipo: 10
+
+Lexema: s
+Tipo: 287
+
+Lexema: :=
+Tipo: 281
+
+Lexema: [
+Tipo: 91
+
+Lexema: ]
+Tipo: 93
+
+Lexema: float32
+Tipo: 287
+
+Lexema: {
+Tipo: 123
+
+Lexema: 2
+Tipo: 285
+
+Lexema: ,
+Tipo: 44
+
+Lexema: real
+Tipo: 287
+
+Lexema: (
+Tipo: 40
+
+Lexema: 1.e0
+Tipo: 280
+
+Lexema: +
+Tipo: 43
+
+Lexema: 0i
+Tipo: 286
+
+Lexema: )
+Tipo: 41
+
+Lexema: ,
+Tipo: 44
+
+Lexema: real
+Tipo: 287
+
+Lexema: (
+Tipo: 40
+
+Lexema: 1.e+0i
+Tipo: 286
+
+Lexema: )
+Tipo: 41
+
+Lexema: ,
+Tipo: 44
+
+Lexema: 0xBadFace42
+Tipo: 285
+
+Lexema: *
+Tipo: 42
+
+Lexema: 1e-11
+Tipo: 280
+
+Lexema: ,
+Tipo: 44
+
+Lexema: -
+Tipo: 45
+
+Lexema: 9
+Tipo: 285
+
+Lexema: ,
+Tipo: 44
+
+Lexema: 4.e+0
+Tipo: 280
+
+Lexema: ,
+Tipo: 44
+
+Lexema: .1273E2
+Tipo: 280
+
+Lexema: }
+Tipo: 125
+
+Lexema: \n
+Tipo: 10
+
+Lexema: \n
+Tipo: 10
+
+Lexema: c
+Tipo: 287
+
+Lexema: :=
+Tipo: 281
+
+Lexema: make
+Tipo: 287
+
+Lexema: (
+Tipo: 40
+
+Lexema: chan
+Tipo: 287
+
+Lexema: float32
+Tipo: 287
+
+Lexema: )
+Tipo: 41
+
+Lexema: \n
+Tipo: 10
+
+Lexema: go
+Tipo: 287
+
+Lexema: sum
+Tipo: 287
+
+Lexema: (
+Tipo: 40
+
+Lexema: s
+Tipo: 287
+
+Lexema: [
+Tipo: 91
+
+Lexema: :
+Tipo: 58
+
+Lexema: len
+Tipo: 287
+
+Lexema: (
+Tipo: 40
+
+Lexema: s
+Tipo: 287
+
+Lexema: )
+Tipo: 41
+
+Lexema: /
+Tipo: 47
+
+Lexema: 2
+Tipo: 285
+
+Lexema: ]
+Tipo: 93
+
+Lexema: ,
+Tipo: 44
+
+Lexema: c
+Tipo: 287
+
+Lexema: )
+Tipo: 41
+
+Lexema: \n
+Tipo: 10
+
+Lexema: go
+Tipo: 287
+
+Lexema: sum
+Tipo: 287
+
+Lexema: (
+Tipo: 40
+
+Lexema: s
+Tipo: 287
+
+Lexema: [
+Tipo: 91
+
+Lexema: len
+Tipo: 287
+
+Lexema: (
+Tipo: 40
+
+Lexema: s
+Tipo: 287
+
+Lexema: )
+Tipo: 41
+
+Lexema: /
+Tipo: 47
+
+Lexema: 2
+Tipo: 285
+
+Lexema: :
+Tipo: 58
+
+Lexema: ]
+Tipo: 93
+
+Lexema: ,
+Tipo: 44
+
+Lexema: c
+Tipo: 287
+
+Lexema: )
+Tipo: 41
+
+Lexema: \n
+Tipo: 10
+
+Lexema: i
+Tipo: 287
+
+Lexema: ,
+Tipo: 44
+
+Lexema: j
+Tipo: 287
+
+Lexema: :=
+Tipo: 281
+
+Lexema: <-
+Tipo: 282
+
+Lexema: c
+Tipo: 287
+
+Lexema: ,
+Tipo: 44
+
+Lexema: <-
+Tipo: 282
+
+Lexema: c
+Tipo: 287
+
+Lexema: \n
+Tipo: 10
+
+Lexema: \n
+Tipo: 10
+
+Lexema: fmt
+Tipo: 287
+
+Lexema: .
+Tipo: 46
+
+Lexema: Println
+Tipo: 287
+
+Lexema: (
+Tipo: 40
+
+Lexema: "Partial results and \"Total\" sum:"
+Tipo: 284
+
+Lexema: )
+Tipo: 41
+
+Lexema: ;
+Tipo: 59
+
+Lexema: \n
+Tipo: 10
+
+Lexema: fmt
+Tipo: 287
+
+Lexema: .
+Tipo: 46
+
+Lexema: Println
+Tipo: 287
+
+Lexema: (
+Tipo: 40
+
+Lexema: i
+Tipo: 287
+
+Lexema: ,
+Tipo: 44
+
+Lexema: j
+Tipo: 287
+
+Lexema: ,
+Tipo: 44
+
+Lexema: i
+Tipo: 287
+
+Lexema: +
+Tipo: 43
+
+Lexema: j
+Tipo: 287
+
+Lexema: )
+Tipo: 41
+
+Lexema: \n
+Tipo: 10
+
+Lexema: }
+Tipo: 125
+
+Lexema: \n
+Tipo: 10
+
+Fin del analisis lexico.
+
+---------------------Tabla de simbolos---------------------
+Lexema: Println     Componente lexico: 287        Bloque: 0
+Lexema: _           Componente lexico: 281        Bloque: 0
+Lexema: c           Componente lexico: 287        Bloque: 0
+Lexema: chan        Componente lexico: 274        Bloque: 0
+Lexema: float32     Componente lexico: 279        Bloque: 0
+Lexema: fmt         Componente lexico: 287        Bloque: 0
+Lexema: for         Componente lexico: 276        Bloque: 0
+Lexema: func        Componente lexico: 273        Bloque: 0
+Lexema: go          Componente lexico: 278        Bloque: 0
+Lexema: i           Componente lexico: 287        Bloque: 0
+Lexema: import      Componente lexico: 272        Bloque: 0
+Lexema: j           Componente lexico: 287        Bloque: 0
+Lexema: len         Componente lexico: 287        Bloque: 0
+Lexema: main        Componente lexico: 287        Bloque: 0
+Lexema: make        Componente lexico: 287        Bloque: 0
+Lexema: package     Componente lexico: 271        Bloque: 0
+Lexema: range       Componente lexico: 277        Bloque: 0
+Lexema: real        Componente lexico: 280        Bloque: 0
+Lexema: s           Componente lexico: 287        Bloque: 0
+Lexema: sum         Componente lexico: 287        Bloque: 0
+Lexema: v           Componente lexico: 287        Bloque: 0
+Lexema: var         Componente lexico: 275        Bloque: 0
+
+
